@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Reaver';
+  src: url('../fonts/Reaver-Bold.woff2') format('woff2'),
+    url('../fonts/Reaver-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Radiance';
+  src: url('../fonts/Radiance-Bold.woff2') format('woff2'),
+    url('../fonts/Radiance-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Reaver';
+  src: url('../fonts/Reaver-Light.woff2') format('woff2'),
+    url('../fonts/Reaver-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Radiance';
+  src: url('../fonts/Radiance-Regular.woff2') format('woff2'),
+    url('../fonts/Radiance-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Reaver';
+  src: url('../fonts/Reaver-Regular.woff2') format('woff2'),
+    url('../fonts/Reaver-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Radiance';
+  src: url('../fonts/Radiance-Light.woff2') format('woff2'),
+    url('../fonts/Radiance-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
